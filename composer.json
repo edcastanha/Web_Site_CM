@@ -1,0 +1,17 @@
+{
+    "name": "edcastanha/apicm",
+    "description": "API de CRUD para projetos e servi\u0000o da madereira C&M",
+    "type": "project",
+    "require": {
+        "symfony/orm-pack": "^2.1"
+    },
+    "require-dev": {
+        "pestphp/pest": "^1.8"
+    },
+    "authors": [
+        {
+            "name": "Edson Bezerra",
+            "email": "edson.bezerra@satellitus.com"
+        }
+    ]
+}
